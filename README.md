@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ravil Mussabayev ( @rmusab )
-- 👀 I’m interested in doing research in computer science and mathematics. I'm a Ph.D. student in math at the University of Washington
+- 👀 I’m interested in working in the areas of computer science and mathematics.
 - 🌱 I’m currently learning how to apply for jobs :)
 - 💞️ I’m looking to collaborate on machine learning start-up ideas
 - 📫 Reach me through email ravmus@uw.edu , or my website https://ravmus.com/ 
