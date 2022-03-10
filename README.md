@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ravil Mussabayev ( @rmusab )
-- 👀 I’m interested in computer science and mathematics. I'm working on the algorithmic foundations of artificial intelligence and operations research. More specifically, my studies revolve around optimization modeling, data science, reinforcement learning, and the ways to apply these fields to finance and investments as well as for the good of the society at large
+- PhD Candidate in Math at the University of Washington, WA, USA
+- 👀 I’m interested in computer science and mathematics. I'm working on the algorithmic foundations of operations research and artificial intelligence. More specifically, my studies revolve around optimization modeling and data science, and the ways to apply these fields in finance and investments as well as for the good of the society at large.
 - 💞️ I’m looking to collaborate on IT start-up ideas
 - 📫 Reach me through email ravmus@uw.edu , or my website https://ravmus.com/ 
 
