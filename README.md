@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ravil Mussabayev ( @rmusab )
-- 🎓 Ph.D. Candidate in Math at the University of Washington, WA, USA
-- 👀 I'm interested in the algorithmic foundations of computer science. More specifically, my studies revolve around clustering and data mining in big data, data science, global optimization, machine learning, and natural language processing
+- 🎓 Doctor of Philosophy (PhD) in Mathematics from the University of Washington, Seattle, WA, USA
+- 👀 I'm interested in the algorithmic foundations of computer science. More specifically, my studies revolve around clustering and data mining in big data, global optimization, data science, machine learning, and natural language processing
 - 💞️ I’m looking to collaborate on IT start-up ideas
 - 📫 Feel free to reach me via email ravmus@uw.edu , and visit my website https://rmusab.github.io/ 
 
