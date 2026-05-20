@@ -1,4 +1,5 @@
 👋 I'm Ravil Mussabayev — a researcher and engineer at the intersection of mathematics and computer science, with a PhD from the University of Washington. I love finding simple solutions to hard problems. Less is more.
+
 🌐 rmusab.github.io
 
 <!---
