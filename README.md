@@ -1,8 +1,5 @@
-- 👋 Hi, I'm Ravil Mussabayev ( @rmusab ).
-- 🎓 PhD in Mathematics (University of Washington, Seattle, WA, USA).
-- 👀 My interests: AI in education, multimodal generative AI (GenAI), AI-based decision support systems, augmented intelligence, multi-agent systems, big data technologies, clustering, multimodal global optimization and soft computing (metaheuristics), operations research, streaming algorithms, distributed and parallel algorithms, natural language processing, and AI for software engineering.
-- 💞️ I'm looking to collaborate on IT start-up ideas.
-- 📫 Feel free to reach me via email ravmus@uw.edu , and visit my website https://rmusab.github.io/ 
+👋 I'm Ravil Mussabayev — a researcher and engineer at the intersection of mathematics and computer science, with a PhD from the University of Washington. I love finding simple solutions to hard problems. Less is more.
+🌐 rmusab.github.io
 
 <!---
 rmusab/rmusab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
